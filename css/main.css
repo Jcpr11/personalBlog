@@ -114,6 +114,7 @@ nav .profile-link {
 nav .profile-link a {
     color: black;
     text-decoration: underline;
+    font-family: monospace;
 }
 
 main img {
